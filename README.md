@@ -6,9 +6,9 @@ Faz parte da disciplina de Engenharia de Software II na [UNOESC](https://www.uno
 ---
 
 ## 🗃️ Estrutura do Projeto
-<pre>```unoesc/
+<pre>unoesc/
 ├── src/
 │   └── Funcoes.php
 └── tests/
-    └── FuncoesTest.php```</pre>
+    └── FuncoesTest.php</pre>
     
