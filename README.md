@@ -12,3 +12,12 @@ Faz parte da disciplina de Engenharia de Software II na [UNOESC](https://www.uno
 └── tests/
     └── FuncoesTest.php</pre>
     
+# 🚀 Como Executar os Testes
+
+Instale as dependências:
+
+<pre>composer install</pre>
+
+Execute os testes:
+
+<pre>./vendor/bin/phpunit</pre>
