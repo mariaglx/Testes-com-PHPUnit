@@ -24,4 +24,3 @@ Execute os testes:
 
 ## 👩‍💻 Colaboradores
 Maria Isabel Wirth Marafon e Vinicius Andrei Wille.
-### 📘 Desenvolvido como parte dos estudos na UNOESC
