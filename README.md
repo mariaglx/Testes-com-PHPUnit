@@ -6,5 +6,9 @@ Faz parte da disciplina de programação/testes na [UNOESC](https://www.unoesc.e
 ---
 
 ## 📁 Estrutura do Projeto
-
+unoesc/
+├── src/
+│   └── Funcoes.php
+└── tests/
+    └── FuncoesTest.php
 
