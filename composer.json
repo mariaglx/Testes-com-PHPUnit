@@ -1,0 +1,17 @@
+{
+    "name": "vinic/unoesc",
+    "autoload": {
+        "psr-4": {
+            "Vinic\\Unoesc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius",
+            "email": "viniciusandreiwille@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
