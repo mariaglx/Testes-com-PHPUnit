@@ -11,7 +11,7 @@ Faz parte da disciplina de Engenharia de Software II na [UNOESC](https://www.uno
 │   └── Funcoes.php
 └── tests/
     └── FuncoesTest.php</pre>
-    
+---
 # 🚀 Como Executar os Testes
 
 Instale as dependências:
@@ -21,3 +21,7 @@ Instale as dependências:
 Execute os testes:
 
 <pre>./vendor/bin/phpunit</pre>
+---
+# 👩‍💻 Colaboradores
+Maria Isabel Wirth Marafon e Vinicius Andrei Wille
+📘 Desenvolvido como parte dos estudos na UNOESC
